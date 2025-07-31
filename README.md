@@ -1,7 +1,7 @@
 # Load Estimation for Residential Compound
 
 An academic project to estimate the electrical load for a small residential compound.  
-The goal was to calculate the total demand and size the required distribution components.
+The goal was to estimate the total electrical load and distribute it across the compound using AutoCAD.
 
 ## Tasks Done
 
