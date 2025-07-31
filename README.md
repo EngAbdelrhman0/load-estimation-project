@@ -19,4 +19,4 @@ The goal was to estimate the total electrical load and distribute it across the 
 ## Notes
 
 - The project was done as part of academic training at Helwan University  
-- No simulation or real measurements were included — the focus was on estimation only
+- The focus was on theoretical estimation and visual representation using AutoCAD.
