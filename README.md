@@ -18,5 +18,5 @@ The goal was to calculate the total load and distribute it visually across the c
 
 ## Notes
 
-- Completed as part of academic training at Helwan University  
+- Completed as part of academic course at Helwan University  
 - Focused on theoretical estimation and clear visual layout using AutoCAD
