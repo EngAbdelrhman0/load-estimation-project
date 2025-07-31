@@ -6,9 +6,8 @@ An academic project focused on basic electrical load estimation for a residentia
 
 - Estimated the electrical load for each residential unit based on its area  
 - Calculated the total load for the entire compound by summing individual unit loads  
-- Applied the same method to estimate:
-  - Cofree (distribution boards)
-  - Pillar (electrical cabinets) requirements  
+- Estimated the number of required cofrees (distribution boards)  
+- Estimated the number of required pillars (electrical cabinets)  
 - Final results and layout were organized using AutoCAD
 
 ## Tools Used
