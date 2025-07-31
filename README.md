@@ -5,10 +5,9 @@ The goal was to estimate the total electrical load and distribute it across the 
 
 ## Tasks Done
 
-- Calculated the electrical load for each villa based on its area  
-- Used the Egyptian Code to estimate the load for lights, sockets, and ACs  
+- Calculated the electrical load for each villa based on its area
 - Summed up the loads for all villas to get the total load of the compound  
-- Estimated the number and load capacity of required cofrees (distribution boards) and pillars (main cabinets)  
+- Estimated the number and load capacity of required cofrees and pillars
 - Organized all load data and calculations in an Excel sheet  
 - Created a basic AutoCAD drawing and added the main load values on it  
 
