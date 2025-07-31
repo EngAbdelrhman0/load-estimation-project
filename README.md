@@ -1,22 +1,22 @@
 # Load Estimation for Residential Compound
 
-An academic project to estimate the electrical load for a small residential compound.  
-The goal was to estimate the total electrical load and distribute it across the compound using AutoCAD.
+An academic project to estimate the electrical load of a small residential compound.  
+The goal was to calculate the total load and distribute it visually across the compound using AutoCAD.
 
 ## Tasks Done
 
-- Calculated the electrical load for each villa based on its area
-- Summed up the loads for all villas to get the total load of the compound  
-- Estimated the number and load capacity of required cofrees and pillars
-- Organized all load data and calculations in an Excel sheet  
-- Created a basic AutoCAD drawing and added the main load values on it  
+- Estimated the electrical load for each villa based on its area  
+- Summed up all villa loads to determine the compound's total load  
+- Calculated the number and load capacity of required cofrees and pillars  
+- Documented all data and calculations in an Excel sheet  
+- Created a basic AutoCAD layout and labeled the main load values  
 
 ## Tools Used
 
-- **Microsoft Excel** – for load calculation and organizing data  
-- **AutoCAD** – to create a layout with labeled electrical components  
+- **Microsoft Excel** – for load calculations and data organization  
+- **AutoCAD** – for layout creation and electrical load annotation  
 
 ## Notes
 
-- The project was done as part of academic training at Helwan University  
-- The focus was on theoretical estimation and visual representation using AutoCAD.
+- Completed as part of academic training at Helwan University  
+- Focused on theoretical estimation and clear visual layout using AutoCAD
