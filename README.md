@@ -1,34 +1,29 @@
-# Load Estimation for Residential Units
+# Load Estimation for a Residential Compound
 
-An academic project that demonstrates how to estimate the electrical load for a small residential apartment using Excel.
+An academic project focused on basic electrical load estimation for a residential compound using the Egyptian Code. The process was carried out using Microsoft Excel and AutoCAD.
 
-## Features
+## Summary
 
-- Calculates expected power consumption for common home appliances
-- Uses demand factor, diversity factor, and safety margin
-- Output includes total load and recommended main breaker size
-- Organized in an easy-to-read Excel sheet with formulas and charts
+- Estimated the electrical load for each residential unit based on its area  
+- Calculated the total load for the entire compound by summing individual unit loads  
+- Applied the same method to estimate:
+  - Cofree (distribution boards)
+  - Pillar (electrical cabinets) requirements  
+- Final results and layout were organized using AutoCAD
 
 ## Tools Used
 
 - Microsoft Excel  
-- Basic Load Calculation Rules (per IEC/NFPA standards)  
+- AutoCAD  
+- Egyptian Electrical Code (Low Voltage)
 
-## How it Works
+## Notes
 
-1. User inputs number and type of appliances (e.g. lights, fans, AC, TV)
-2. Each item has a defined power rating (in watts)
-3. Sheet calculates total power, current, and suggests circuit sizes
-4. Includes demand factor to reflect realistic load usage
-5. Displays total load in kW and amps, with breaker recommendation
-
-## Additional Notes
-
-- This project was created as part of Electrical Power Engineering coursework
-- All calculations are based on typical Egyptian household standards
+- This project was part of coursework in Electrical Power & Machines Engineering – Helwan University  
+- Designed for academic purposes using simplified assumptions
 
 ## Author
 
 **Abdelrhman Ashraf**  
-Electrical Power & Machines Engineering – Helwan University  
+Junior Electrical Engineer  
 [LinkedIn](https://www.linkedin.com/in/abdelrhman-ashraf1)
