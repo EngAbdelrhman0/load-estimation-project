@@ -20,3 +20,8 @@ The goal was to calculate the total load and distribute it visually across the c
 
 - Completed as part of academic course at Helwan University  
 - Focused on theoretical estimation and clear visual layout using AutoCAD
+
+## Project Files
+
+- [Load_Estimation_Data.xlsx](./Load_Estimation_Data.xlsx)
+- [ِAutoCAD File.dwg](./Compound_Load_Layout.dwg)
